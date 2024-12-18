@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <resources>
+        <string-array name="documentos_array">
+            <item>DNI</item>
+            <item>RUC</item>
+            <item>Pasaporte</item>
+            <item>Carnet de Extranjería</item>
+        </string-array>
+    </resources>
+
+</resources>
